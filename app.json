@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "VerificarVeiculo",
+    "slug": "VerificarVeiculo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
